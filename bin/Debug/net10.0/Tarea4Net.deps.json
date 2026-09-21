@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tarea4Net/1.0.0": {
+        "runtime": {
+          "Tarea4Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea4Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
