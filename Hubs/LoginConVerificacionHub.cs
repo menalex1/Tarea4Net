@@ -24,7 +24,7 @@ namespace Tarea4Net.Hubs
                 {
                     string usrId = Context.ConnectionId;
                     _logger.LogInformation($"*** Copiar esta url para simular el click del email:");
-                    _logger.LogInformation($"    https://localhost:xxxx/verificar/usuario/{usrId}");
+                    _logger.LogInformation($"    http://localhost:xxxx/verificar/usuario/{usrId}");
                 }
             }
         }

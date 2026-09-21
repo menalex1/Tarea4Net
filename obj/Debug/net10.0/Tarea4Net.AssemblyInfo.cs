@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarea4Net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82b5a1a99c98e95ec8b6aad295f0a4e9229dbf73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3db1c219b81e842cbc2641aff2b963016a28ca55")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarea4Net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarea4Net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
