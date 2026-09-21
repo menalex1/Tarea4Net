@@ -1,7 +1,6 @@
 ﻿var connection = new signalR.HubConnectionBuilder().withUrl("/login").build();
 
-// Este handler se ejecuta cuando el SERVIDOR invoca "VerificacionOk".
-// Por eso la página redirige sola, sin que el usuario haga nada.
+
 connection.on("VerificacionOk", function (usuario) {
     console.info("Me invocaron desde el servidor, usuario:" + usuario);
     window.location.href = "/PaginaBienvenida";
@@ -21,7 +20,7 @@ loginForm.addEventListener("submit", function (e) {
     var email = document.getElementById("email").value;
     var pass = document.getElementById("password").value;
 
-    // Invoca el metodo "Login" que definiste en el Hub del servidor
+    
     connection.invoke("Login", email, pass).catch(function (err) {
         return console.error(err.toString());
     });

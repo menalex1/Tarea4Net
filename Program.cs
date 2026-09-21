@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.SignalR;
+using Tarea4Net.Hubs;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
