@@ -62,3 +62,16 @@ button:disabled {
     text-align: center;
     display: none;
 }
+
+.welcome-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    text-align: center;
+}
+
+.welcome-container p {
+    color: #666;
+    margin-top: 20px;
+}

@@ -21,9 +21,7 @@ C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\rjsmcshtml.dswa.cach
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\scopedcss\bundle\Tarea4Net.styles.css
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\scopedcss\projectbundle\Tarea4Net.bundle.scp.css
-C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\bnhjy4clpq-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\c9c0bg81yr-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\f8tep0x8td-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\mvgrzxga2a-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\i7uwilkumi-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\k7je7ewyrt-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -95,3 +93,9 @@ C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\refint\Tarea4Net.dll
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\Tarea4Net.pdb
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\Tarea4Net.genruntimeconfig.cache
 C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\ref\Tarea4Net.dll
+C:\Users\alexi\OneDrive\Desktop\Tarea4Net\bin\Debug\net10.0\libman.json
+C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\Tarea4Net.sourcelink.json
+C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\bnhjy4clpq-{0}-iiak9thrbj-iiak9thrbj.gz
+C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\f8tep0x8td-{0}-nieq6x36oa-nieq6x36oa.gz
+C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\ctag6bbz3t-{0}-oos2ptvsfd-oos2ptvsfd.gz
+C:\Users\alexi\OneDrive\Desktop\Tarea4Net\obj\Debug\net10.0\compressed\qpwibvd069-{0}-pgpeah7kws-pgpeah7kws.gz
