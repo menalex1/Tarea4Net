@@ -53,7 +53,6 @@ Abrir en el navegador: http://localhost:5191
 ## Notas
 
 - No se envía un email real: la URL de verificación simula el click del enlace.
-- El envío de la notificación se hace a un cliente específico (no a todos) con
+- El envío de la notificación se hace a un cliente específico con
   `Clients.Client(connectionId).SendAsync(...)`.
-- En producción, NO debería exponerse el connectionId en una URL (en este
-  proyecto es solo con fines demostrativos).
+- En producción, NO debería exponerse el connectionId en una URL
